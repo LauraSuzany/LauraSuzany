@@ -9,6 +9,8 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraSuzany&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+<div align="center">
+  
 ##
   
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
