@@ -1,7 +1,7 @@
 
 <div align="center">
   
-<h2>E aí!? já que veio até aqui, fique a vontade para olhar os meus repositórios ☺ </h2>
+<h2>E aí!? já que veio até aqui, fique à vontade para olhar os meus repositórios ☺ </h2>
   
 <div>
   
