@@ -1,7 +1,15 @@
-### Olá, seja bem vindo(a) ao meu github 👋
 
+<div align="center">
+  
+<h2>E aí!? já que veio até aqui, fique a vontade para olhar os meus repositórios ☺ </h2>
+  
+<div>
+  
+<div align="center">
 
--  Atualmente sou desenvolvedora Back-end. Adoro um bom desafio, pois me lembra a fase daquele jogo a qual eu desejo tanto zerar, erros e bugs são os melhores "cursos" que alguém poderia ter, o segundo melhor e ajudar um colega em prantos "rsrsrs". O meu pouco tempo de formada é compensado pelo empenho que tenho ao receber uma nova missão. ☕
+<p Align="justify" > Atualmente sou desenvolvedora Back-end. Adoro um bom desafio, pois me lembra a fase daquele jogo a qual eu desejo tanto zerar, erros e bugs são os melhores "cursos" que alguém poderia ter, o segundo melhor e ajudar um colega em prantos "rsrsrs". O meu pouco tempo de formada é compensado pelo empenho que tenho ao receber uma nova missão. ☕ </p>
+  
+<br />
 
 <div align="center">
   <a href="https://github.com/LauraSuzany">
