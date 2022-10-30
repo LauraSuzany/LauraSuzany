@@ -7,7 +7,7 @@
   
 <div align="center">
 
-<p Align="justify" > Atualmente sou desenvolvedora Back-end. Adoro um bom desafio, pois me lembra a fase daquele jogo a qual eu desejo tanto zerar, erros e bugs são os melhores "cursos" que alguém poderia ter, o segundo melhor e ajudar um colega em prantos "rsrsrs". O meu pouco tempo de formada é compensado pelo empenho que tenho ao receber uma nova missão. ☕ </p>
+<p Align="justify" > Atualmente sou desenvolvedora Back-end. Adoro um bom desafio 😎, pois me lembra a fase de um jogo 🕹️ a qual desejo tanto passar, erros e bugs são os melhores "cursos" que alguém poderia ter, o segundo melhor e ajudar um colega em prantos 😭. O meu pouco tempo de formada é compensado pelo empenho que tenho ao receber uma nova missão. ☕ </p>
   
 <br />
 
