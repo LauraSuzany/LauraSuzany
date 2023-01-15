@@ -8,16 +8,7 @@
 <div align="center">
 
 <p Align="justify" > Atualmente sou desenvolvedora Back-end. Adoro um bom desafio 😎, pois me lembra a fase de um jogo 🕹️ a qual desejo tanto passar, erros e bugs são os melhores "cursos" que alguém poderia ter, o segundo melhor e ajudar um colega em prantos 😭. O meu pouco tempo de formada é compensado pelo empenho que tenho ao receber uma nova missão. ☕ </p>
-  
-<br />
-
-<div align="center">
-  <a href="https://github.com/LauraSuzany">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LauraSuzany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraSuzany&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div align="center">
+ 
   
 ##
   
